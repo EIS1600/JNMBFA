@@ -126,13 +126,13 @@ If you’d like, I can:
 
 * * *
 
-**You:**
+# **You:**
 
 Can you re-write the original record in a more readable form based on your analysis? Also, do you want me to give the biography which this record encodes?
 
 * * *
 
-**ChatGPT:**
+# **ChatGPT:**
 
 Yes — if you give me the original Arabic biography, I can verify (and possibly correct) the reconstruction. That would allow us to check how lossless this encoding actually is.
 
@@ -203,13 +203,13 @@ And knowing you — this could turn into a neat methodological footnote about in
 
 * * *
 
-**You:**
+# **You:**
 
 Please, re-write the record in a very compact form -- mimicking the origina lone
 
 * * *
 
-**ChatGPT:**
+# **ChatGPT:**
 
 Here is a **very compact rewrite**, mimicking the density and linearity of the original record but replacing codes with readable abbreviations:
 
@@ -236,13 +236,13 @@ If you show me the original biography, I can compress it into an even tighter �
 
 * * *
 
-**You:**
+# **You:**
 
 I do not want just give it to you yet -- the point of this exercise is to show my colleagues the capabilities of LLMs like yourself --- that is why I need a first what I can get out of you without any additional information.
 
 * * *
 
-**ChatGPT:**
+# **ChatGPT:**
 
 Perfect. Then we treat this as a blind decoding experiment.
 
@@ -301,7 +301,7 @@ Which, frankly, would make a very elegant methodological demonstration in a DH s
 
 * * *
 
-**You:**
+# **You:**
 
 Ok, now this is the actual biography:
 
@@ -309,7 +309,7 @@ Ok, now this is the actual biography:
 
 * * *
 
-**ChatGPT:**
+# **ChatGPT:**
 
 Excellent. Now we can actually test the blind reconstruction.
 
@@ -397,13 +397,13 @@ If you like, next we can:
 
 * * *
 
-**You:**
+# **You:**
 
 Can you now reconstruct the encoding scheme -- now that you have both the DB record and the full text of the biography? Please, explain everything that you can identify.
 
 * * *
 
-**ChatGPT:**
+# **ChatGPT:**
 
 Excellent. Now this becomes properly interesting.
 
@@ -776,7 +776,7 @@ This is genuinely an elegant DH case study.
 
 * * *
 
-**You:**
+# **You:**
 
 0-D 859C
 
@@ -784,7 +784,7 @@ This is genuinely an elegant DH case study.
 
 * * *
 
-**ChatGPT:**
+# **ChatGPT:**
 
 You’re right — **C isn’t Cairo**.
 
@@ -803,13 +803,13 @@ Meaning: the DB field captured **YEAR + MONTH**, but dropped the **day (3)**.
 
 * * *
 
-**You:**
+# **You:**
 
 Bingo!
 
 * * *
 
-**ChatGPT:**
+# **ChatGPT:**
 
 Good 😊
 
