@@ -1,4 +1,4 @@
-**You:**
+# **You:**
 
 ```
 ;00010-A ABRA*YM 0-F AHMD 0-G ABRA*YM 0-B 806R+1 0-D 859C 0-P 3 1-A +BD-RHMN 1-B/
@@ -15,7 +15,7 @@ can you interpret this data? make it compact
 
 * * *
 
-**ChatGPT:**
+# **ChatGPT:**
 
 This is clearly a **structured biographical encoding**, most likely derived from a prosopographical database (very much in the spirit of your EIS1600 pipelines). The format looks like:
 
