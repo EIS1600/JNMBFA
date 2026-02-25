@@ -1,5 +1,6 @@
 # **You:**
 
+```
 ;00010-A ABRA*YM 0-F AHMD 0-G ABRA*YM 0-B 806R+1 0-D 859C 0-P 3 1-A +BD-RHMN 1-B/
  ABW-BKR 11U ZYN-+BYD-SKALSY 11O MHMD 5-^ . 5-C QRAN\ 5-C +MD6 5-C MXTCR-BN-HAJB[
 -FR+Y 5-C RSAL6 5-C ALFY6-BN-MALK 5-+ +Z-BN-JMA+6 5-+ WLY-+RAQY 5-+ BR*AN-BYJWRYS
@@ -8,6 +9,7 @@ ABDY 5-P ABW-F5L-M$DALY' 5-P BSA/Y 5-S BN-/HAN 5-S BN-NA4R-CAHB6 5-S BN-BRDS 5-I
  . 4-I QA*R6 4-R ASKNDRY6 6-O QA5Y\ 6-O NA1B-QA5Y 6-H BSA/Y' 7-P SEV 7-P JAWR 9-C
 M ABWDRY-NSB6-L-QRY6-FY-BHYR6 2-L BR*AN 2-$ ABWDRY 3-N ABWDRY 3-" QA*RY 3-B MALK$
 Y                 8
+```
 
 Can you please interpret this data? Put your interpretation in a similarly compact format (one paragraph).
 
