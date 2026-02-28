@@ -56,18 +56,22 @@ QUALITY
 EXAMPLES — DO NOT INCLUDE THIS SECTION IN OUTPUT
 
 Example 1 — PERSON: longest contiguous span
+
 INPUT: ... روى عن أبي القاسم علي بن محمد البغدادي ...
+
 OUTPUT (TSV):
-3<TAB>روى<TAB>روى
-0<TAB>أبو القاسم علي بن محمد البغدادي<TAB>أبو
+- 3<TAB>روى<TAB>روى
+- 0<TAB>أبو القاسم علي بن محمد البغدادي<TAB>أبو
 
 Example 2 — Specific vs. generic institution
+
 INPUT: دخلوا المسجد ثم خرجوا إلى مسجد ابن طولون
+
 OUTPUT (TSV):
-3<TAB>دخلوا<TAB>دخل
-2<TAB>المسجد<TAB>مسجد
-3<TAB>خرجوا<TAB>خرج
-1<TAB>مسجد ابن طولون<TAB>مسجد
+- 3<`TAB`>دخلوا<`TAB`>دخل
+- 2<TAB>المسجد<TAB>مسجد
+- 3<TAB>خرجوا<TAB>خرج
+- 1<TAB>مسجد ابن طولون<TAB>مسجد
 
 Example 3 — Participial predicate + finite verb
 INPUT: وكان محدثا ببغداد
