@@ -17,9 +17,9 @@ NORMALIZATION / LEMMATIZATION
 
 TYPE RULES
 - PERSON (0):
-  • Extract the **longest contiguous span** that constitutes a single person’s reference (include kunya, ism, nasab, nisba). Do **not** split such names into fragments.
-  • أبو/أبا/أبي → أبو when first token.  
-  • ابن/بن → ابن when first token.
+  - Extract the **longest contiguous span** that constitutes a single person’s reference (include kunya, ism, nasab, nisba). Do **not** split such names into fragments.
+  - أبو/أبا/أبي → أبو when first token.  
+  - ابن/بن → ابن when first token.
 
 - TOPONYM (1): 
   • Includes identifiable places: regions, provinces, cities, quarters, gates, landmarks.
